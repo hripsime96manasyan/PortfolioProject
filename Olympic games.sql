@@ -1,6 +1,3 @@
---Analysing a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016
---2 tables uploaded in the database: Olympics_history and Olympics_history_noc_regions
-
 select * from olympics_history
 select * from noc_regions_olympics_history
 
