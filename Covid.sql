@@ -1,8 +1,5 @@
 create database Portfolio_project
 
-/* Data imported from https://ourworldindata.org/coronavirus#explore-the-global-situation
-Within this Portfolio Project we will analyse data between two tables: CovidVaccinations and CovidDeaths*/
-
 --SELECTING ALL FROM CovidDeaths
 
 select * from CovidDeaths
