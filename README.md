@@ -7,4 +7,4 @@ In the first project I've used SQL to do some Data Exploration on an actual them
 Data has been imported from https://ourworldindata.org/coronavirus#explore-the-global-situation.
 
 Within the 2nd project, Olympic games history has been analized with list of queries from different levels.
-Historical data has been imported to SQL from Kaggle
+Historical dataset on the modern Olympic Games has been imported to SQL from Kaggle, including all the Games from Athens 1896 to Rio 2016.
