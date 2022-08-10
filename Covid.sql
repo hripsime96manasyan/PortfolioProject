@@ -92,8 +92,7 @@ where d.continent is not null
 and d.location = 'Armenia'
 order by 2,3
 
---Creating a view for later visualizations
-
+--Creating some views
 
 Create View PercentPopulationVaccinate_view as
 select d.continent, d.location, d.date, d.population, v.new_vaccinations
