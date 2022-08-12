@@ -1,6 +1,6 @@
 # PortfolioProject
 
-As an entry level Data Analyst, I've created this repository to keep the projects I work on and keep tracing the skills and experience I got in SQL.
+As an entry level Data Analyst, I've created this repository to keep the projects I work on and keep tracing the skills and experience I got in SQL and Python.
 
 In the first project I've used SQL to do some Data Exploration on an actual theme nowadays - Covid, the data has been used for visualization in Tableu. 
 
